@@ -1,0 +1,1 @@
+errors.rb:10:in `<main>': Принудительно вызываем ошибку#<File:0x000055c232374818> (RuntimeError)
